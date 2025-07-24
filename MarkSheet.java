@@ -34,5 +34,6 @@ public class MarkSheet {
         }
 
         System.out.printf("Your Name is %s , Your Grade is %s\n",name,grade);
+        SC.close();
     }
 }
